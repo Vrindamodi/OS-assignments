@@ -1,0 +1,1 @@
+who | tee output.txt

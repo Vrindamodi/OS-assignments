@@ -1,0 +1,1 @@
+sort -n IN.txt >> OUT.txt

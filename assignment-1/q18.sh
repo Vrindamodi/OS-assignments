@@ -1,0 +1,1 @@
+find / -name "*.tmp" -atime +15 -delete
