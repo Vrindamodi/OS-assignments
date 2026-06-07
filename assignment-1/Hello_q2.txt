@@ -1,0 +1,2 @@
+This file has an uppercase name.
+q2.sh will rename it to hello_q2.txt.
