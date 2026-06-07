@@ -1,0 +1,4 @@
+This is the source file for q10.
+It contains multiple lines of text.
+The script will copy this content into a destination file.
+Shell scripting makes file operations simple.

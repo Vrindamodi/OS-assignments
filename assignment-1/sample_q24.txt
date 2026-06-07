@@ -1,0 +1,5 @@
+the cat sat on the mat
+the quick brown fox jumps over the lazy dog
+the cat and the dog are friends
+shell scripting is the best way to automate tasks
+the professor teaches the students about the shell
