@@ -4,3 +4,5 @@ find . -type f | while read -r file; do
     permissions=$(stat -c%A "$file")
     echo "Filename: $name Size: $size bytes permissions: $permissions" >> backup
 done
+
+echo "output saved in file named backup"
